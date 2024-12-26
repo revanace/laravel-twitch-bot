@@ -1,0 +1,19 @@
+{
+    "name": "revanace/laravel-twitch-bot",
+    "description": "Laravel package for creating twitch bots",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "revanace\\LaravelTwitchBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RevanAce"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
